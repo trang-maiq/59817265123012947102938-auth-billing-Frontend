@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter to get weekly insights, tips, and exclusive content on the latest trends in technology. Join our community and empower your technical skills!",
+        "emailLabel": "Email address",
+        "heading": "Stay Ahead in the World of Tech!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration.",
+        "title": "Unlock Your Potential with Yay!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unlock Your Potential with Yay!",
+  "subtitle": "Explore the latest in tech, unravel complex concepts, and ignite your inspiration."
+}
